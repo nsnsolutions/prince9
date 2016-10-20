@@ -1,0 +1,11 @@
+{
+  "name": "prince9",
+  "version": "1.0.0",
+  "description": "A child process, prince 9 wrapper",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Laird <ilaird@velma.com>",
+  "license": "ISC"
+}
